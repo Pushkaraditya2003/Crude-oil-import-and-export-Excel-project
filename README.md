@@ -78,11 +78,3 @@ This is my **first Excel dashboard project**, built as part of my data analytics
 
 - Government of India Ministry of Commerce (for the dataset)
 - Excel and data visualization tutorials by [insert helpful YouTubers or blogs if any]
-
----
-
-## 📬 Contact
-
-**Pushkaraditya Singh**  
-📧 [your.email@example.com]  
-💻 GitHub: [github.com/yourusername]
